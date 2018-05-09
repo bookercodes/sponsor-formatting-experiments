@@ -7,7 +7,7 @@
   Sponsored by <a href="https://pusher.com/chatkit">Pusher Chatkit</a>:
 </p>
 <p align="center">
-    <img width="650" src="https://github.com/bookercodes/sponsor-formatting-experiments/blob/master/1300x330.png?raw=true" alt="Awesome Node.js">
+    <img width="650" src="https://github.com/bookercodes/sponsor-formatting-experiments/blob/master/PERFECT.png?raw=true" alt="Awesome Node.js">
 </p>
 
 <p align="center">
