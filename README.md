@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://pusher.com/chatkit">
-    <img width="700" src="https://github.com/bookercodes/sponsor-formatting-experiments/blob/master/Final.png?raw=true" alt="Pusher Chatkit"></a>
+    <img src="https://github.com/bookercodes/sponsor-formatting-experiments/blob/master/Final.png?raw=true" alt="Pusher Chatkit"></a>
 </p>
 
 
